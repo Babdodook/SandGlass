@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 920e028eee9917c4e81d7782cc8e7898
+  productGUID: c3a85e1de11f990439590f59ca7464f6
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -617,9 +617,9 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 1376656e-1cd9-4c7d-8af6-97d37bf5d050
+  cloudProjectId: a7bf803c-48b8-4531-97d8-bcb2f86f8e61
   framebufferDepthMemorylessMode: 0
-  projectName: SandGlass ver.0.1
+  projectName: SandGlass ver.0.1 (1)
   organizationId: catalyst4512
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
